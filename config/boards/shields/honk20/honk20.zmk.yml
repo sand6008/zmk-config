@@ -1,0 +1,8 @@
+file_format: "1"
+id: honk20
+name: honk20
+type: shield
+url: https://github.com/23yzhang/Evan-PCB-ISP
+requires: [pro_micro]
+features:
+  - keys

@@ -1,0 +1,6 @@
+if SHIELD_HONK20
+
+config ZMK_KEYBOARD_NAME
+    default "honk20"
+
+endif
